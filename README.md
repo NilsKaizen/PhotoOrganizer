@@ -4,6 +4,7 @@ Python Script to organize your photos and videos in folders by year and month.
 
 <img width="295" alt="Screen shot" src="https://user-images.githubusercontent.com/63535270/200433510-dc068d3c-3969-4820-b267-b6fc90c114f8.png">
 
+0) Download the PhotoOrganizer.exe
 1) RUN as Administrator
 2) Select Origin folder (it must not have sub folders otherwise it will crash)
 3) Select "copy" or "move"
