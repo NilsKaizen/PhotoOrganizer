@@ -11,3 +11,7 @@ Python Script to organize your photos and videos in folders by year and month.
 5) If you want to use the same folder where the files are in, select the same folder in both options and select "Move"
 
 ** TESTED ONLY IN WINDOWS IDK IF IT WORKS IN MAC
+
+How it works? 
+1) First checks the file name, if the date is in the title it will extract it and use it for organize the file
+2) If the title does not have the date the script will check metadata of the file
